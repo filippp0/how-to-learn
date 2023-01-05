@@ -1,0 +1,7 @@
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin: 0;
+  padding-top: 80px;
+  z-index: 2;
+}
