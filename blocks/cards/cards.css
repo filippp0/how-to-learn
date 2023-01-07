@@ -2,6 +2,7 @@
   display: flex;
   align-self: center;
   flex-wrap: wrap;
+  column-gap: 100px;
   width: 920px;
   margin: 0;
   padding: 0;
