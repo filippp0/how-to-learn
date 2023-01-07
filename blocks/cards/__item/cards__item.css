@@ -3,4 +3,9 @@
   flex-direction: column;
   align-items: center;
   width: 240px;
+  margin-right: 100px;
+}
+
+.cards__item:nth-child(3) {
+  margin: 0;
 }
